@@ -13,5 +13,13 @@ test.v   ----> Simulation test bench.
 charRom.v ----> ASCII conversions for OLED display.
 
 
+oledControl.v ----> Setting up OLED Display parameters.
+
+spicontrol.v ----> OLED interfacing through spi protocol.
+
+
+top.v ----> Top module
+
+
 
 
