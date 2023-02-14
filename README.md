@@ -9,3 +9,9 @@ aclock.v ----> Verilog code for alarm clock.
 
 test.v   ----> Simulation test bench.
 
+
+charRom.v ----> ASCII conversions for OLED display.
+
+
+
+
