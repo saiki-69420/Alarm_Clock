@@ -24,5 +24,8 @@ top.v ----> Top module for OLED interfacing.
 constr_1.xdc ----> Constraint file for OLED Display.
 
 
+Report_P2_G12.pdf ---> A report for the project.
+
+
 
 
