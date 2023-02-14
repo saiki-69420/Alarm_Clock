@@ -21,7 +21,7 @@ spicontrol.v ----> OLED interfacing through spi protocol.
 top.v ----> Top module for OLED interfacing.
 
 
-constr_1.xdc ----> Constraint file for alarm clock.
+constr_1.xdc ----> Constraint file for OLED Display.
 
 
 
